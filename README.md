@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/stickers/wave-matt-lloyd-boylloyd-YSlD6I04v4s9pgwPcT" width="600" height="300"/>
 </div>
 
 
