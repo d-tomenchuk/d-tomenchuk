@@ -54,3 +54,4 @@ I am a Programmer Python, C#, C++/Game Developer <img src="https://media.giphy.c
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d-tomenchuk&theme=dark&border_radius=25&card_width=525)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-tomenchuk)](https://github.com/anuraghazra/github-readme-stats)
